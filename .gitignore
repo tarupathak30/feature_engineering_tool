@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+myenv/
+venv/
+.env/
+
+# Other Python-specific ignores
+*.egg-info/
+*.pyc
